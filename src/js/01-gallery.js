@@ -14,8 +14,7 @@ const createMarkup = ({ original, preview, description }) => {
       
       alt=${description}
     />
-  </a>
-`;
+  </a>`;
 };
 
 const renderGallery = () => {
